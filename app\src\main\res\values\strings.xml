@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rokid Claude</string>
+    <string name="title_settings">Settings</string>
+
+    <!-- Main screen -->
+    <string name="btn_settings">Settings</string>
+    <string name="btn_clear_history">Clear History</string>
+
+    <!-- Settings screen -->
+    <string name="label_api_key">Claude API Key</string>
+    <string name="hint_api_key">sk-ant-…</string>
+    <string name="label_model">Model</string>
+    <string name="label_system_prompt">System Prompt</string>
+    <string name="label_max_tokens">Max Response Tokens</string>
+    <string name="hint_max_tokens">1–8192 (default 512)</string>
+    <string name="label_max_history">Max History Turns</string>
+    <string name="hint_max_history">1–50 (default 10)</string>
+    <string name="btn_save">Save Settings</string>
+    <string name="btn_reset">Reset</string>
+</resources>
